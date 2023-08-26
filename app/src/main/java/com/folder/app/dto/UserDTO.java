@@ -10,7 +10,7 @@ public class UserDTO {
     private String email;
     private String pwd;
     private boolean gender;
-    private boolean del;
+    // private boolean del;
     private LocalDateTime regDate;
 
 }
